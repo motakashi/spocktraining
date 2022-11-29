@@ -1,4 +1,4 @@
-package org.example.spocktraining
+package org.example
 
 import spock.lang.Specification
 

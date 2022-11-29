@@ -1,6 +1,6 @@
-package org.example.spocktraining;
+package org.example
 
-import spock.lang.Specification;
+import spock.lang.Specification
 
 class SomeClientSpec extends Specification {
     def "スタブを使ったテスト"() {
